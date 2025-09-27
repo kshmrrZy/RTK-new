@@ -4337,37 +4337,37 @@ https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R02_MIR_KKR/variant.m3u8
 #EXTINF:-1 group-title="Краснодарский край" tvg-id="muztv",МУЗ-ТВ (Краснодарский Край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R06_MUZTV_KKR/variant.m3u8
-#EXTINF:-1 group-title="Краснодарский край" tvg-id="pervy",Первый (Сочи)
+#EXTINF:-1 group-title="Сочи, Краснодарский край" tvg-id="pervy",Первый (Сочи)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R03_1TV_SCH/variant.m3u8
-#EXTINF:-1 group-title="Краснодарский край" tvg-id="rossia1",Россия 1 (Сочи)
+#EXTINF:-1 group-title="Сочи, Краснодарский край" tvg-id="rossia1",Россия 1 (Сочи)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_SCH/variant.m3u8
-#EXTINF:-1 group-title="Краснодарский край" tvg-id="ntv",НТВ (Сочи)
+#EXTINF:-1 group-title="Сочи, Краснодарский край" tvg-id="ntv",НТВ (Сочи)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R03_NTV_SCH/variant.m3u8
-#EXTINF:-1 group-title="Краснодарский край" tvg-id="otr",ОТР (Сочи)
+#EXTINF:-1 group-title="Сочи, Краснодарский край" tvg-id="otr",ОТР (Сочи)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_OTR_SCH/variant.m3u8
-#EXTINF:-1 group-title="Краснодарский край" tvg-id="tvcentr",ТВ Центр (Сочи)
+#EXTINF:-1 group-title="Сочи, Краснодарский край" tvg-id="tvcentr",ТВ Центр (Сочи)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_TVC_SCH/variant.m3u8
-#EXTINF:-1 group-title="Краснодарский край" tvg-id="rentv",РЕН ТВ (Сочи)
+#EXTINF:-1 group-title="Сочи, Краснодарский край" tvg-id="rentv",РЕН ТВ (Сочи)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R02_RENTV_SCH/variant.m3u8
-#EXTINF:-1 group-title="Краснодарский край" tvg-id="sts",СТС (Сочи)
+#EXTINF:-1 group-title="Сочи, Краснодарский край" tvg-id="sts",СТС (Сочи)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R02_STS_SCH/variant.m3u8
-#EXTINF:-1 group-title="Краснодарский край" tvg-id="tv3-ru",ТВ-3 (Сочи)
+#EXTINF:-1 group-title="Сочи, Краснодарский край" tvg-id="tv3-ru",ТВ-3 (Сочи)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_TV3_SCH/variant.m3u8
-#EXTINF:-1 group-title="Краснодарский край" tvg-id="piatnica",Пятница! (Сочи)
+#EXTINF:-1 group-title="Сочи, Краснодарский край" tvg-id="piatnica",Пятница! (Сочи)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_SCH/variant.m3u8
-#EXTINF:-1 group-title="Краснодарский край" tvg-id="mir",МИР (Сочи)
+#EXTINF:-1 group-title="Сочи, Краснодарский край" tvg-id="mir",МИР (Сочи)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R02_MIR_SCH/variant.m3u8
-#EXTINF:-1 group-title="Краснодарский край" tvg-id="tnt",ТНТ (Сочи)
+#EXTINF:-1 group-title="Сочи, Краснодарский край" tvg-id="tnt",ТНТ (Сочи)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_TNT_SCH/variant.m3u8
 #EXTINF:-1 group-title="Краснодарский край" tvg-id="gln24",GLN News (Геленджик)
@@ -4379,7 +4379,7 @@ https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA-ARMAVIR/variant.
 #EXTINF:-1 group-title="Краснодарский край" tvg-id="krasnodar",Краснодар (Краснодар)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_KRASNODAR/variant.m3u8
-#EXTINF:-1 group-title="Краснодарский край" tvg-id="sochi24",Sochi24 (Сочи)
+#EXTINF:-1 group-title="Сочи, Краснодарский край" tvg-id="sochi24",Sochi24 (Сочи)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_MAKS241/variant.m3u8
 #EXTINF:-1 group-title="Краснодарский край" tvg-id="novorosisk-tv",Новороссийск (Новороссийск)
@@ -5042,55 +5042,55 @@ https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TNT_URAL_CHEL/variant.
 #EXTINF:-1 group-title="Челябинская область" tvg-id="muztv-pl2",МУЗ-ТВ (Челябинск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MUZTV_RTRS_CHEL/variant.m3u8
-#EXTINF:-1 group-title="Челябинская область" tvg-id="pervy-pl2",Первый (Магнитогорск)
+#EXTINF:-1 group-title="Магнитогорск, Челябинская обл." tvg-id="pervy-pl2",Первый (Магнитогорск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV_URAL_MAG/variant.m3u8
-#EXTINF:-1 group-title="Челябинская область" tvg-id="rossia1-pl2",Россия 1 (Магнитогорск)
+#EXTINF:-1 group-title="Магнитогорск, Челябинская обл." tvg-id="rossia1-pl2",Россия 1 (Магнитогорск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_RUSS1_MAG/variant.m3u8
-#EXTINF:-1 group-title="Челябинская область" tvg-id="match-tv",Матч ТВ (Магнитогорск)
+#EXTINF:-1 group-title="Магнитогорск, Челябинская обл." tvg-id="match-tv",Матч ТВ (Магнитогорск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_MATCHTV_MAG/variant.m3u8
-#EXTINF:-1 group-title="Челябинская область" tvg-id="kultura-pl2",Россия К (Магнитогорск)
+#EXTINF:-1 group-title="Магнитогорск, Челябинская обл." tvg-id="kultura-pl2",Россия К (Магнитогорск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_ROSSIAK_URAL_MAG/variant.m3u8
-#EXTINF:-1 group-title="Челябинская область" tvg-id="rossia-24",Россия 24 (Магнитогорск)
+#EXTINF:-1 group-title="Магнитогорск, Челябинская обл." tvg-id="rossia-24",Россия 24 (Магнитогорск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA24_URAL_MAG/variant.m3u8
-#EXTINF:-1 group-title="Челябинская область" tvg-id="karusel-pl2",Карусель (Магнитогорск)
+#EXTINF:-1 group-title="Магнитогорск, Челябинская обл." tvg-id="karusel-pl2",Карусель (Магнитогорск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_KARUSEL_MAG/variant.m3u8
-#EXTINF:-1 group-title="Челябинская область" tvg-id="otr-pl2",ОТР (Магнитогорск)
+#EXTINF:-1 group-title="Магнитогорск, Челябинская обл." tvg-id="otr-pl2",ОТР (Магнитогорск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_OTR_MAG/variant.m3u8
-#EXTINF:-1 group-title="Челябинская область" tvg-id="tvcentr-pl2",ТВ Центр (Магнитогорск)
+#EXTINF:-1 group-title="Магнитогорск, Челябинская обл." tvg-id="tvcentr-pl2",ТВ Центр (Магнитогорск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TVC_URAL_MAG/variant.m3u8
-#EXTINF:-1 group-title="Челябинская область" tvg-id="rentv-pl2",РЕН ТВ (Магнитогорск)
+#EXTINF:-1 group-title="Магнитогорск, Челябинская обл." tvg-id="rentv-pl2",РЕН ТВ (Магнитогорск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_URAL_MAG/variant.m3u8
-#EXTINF:-1 group-title="Челябинская область" tvg-id="spas-pl2",Спас (Магнитогорск)
+#EXTINF:-1 group-title="Магнитогорск, Челябинская обл." tvg-id="spas-pl2",Спас (Магнитогорск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_SPAS_RTRS_MAG/variant.m3u8
-#EXTINF:-1 group-title="Челябинская область" tvg-id="sts-pl2",СТС (Магнитогорск)
+#EXTINF:-1 group-title="Магнитогорск, Челябинская обл." tvg-id="sts-pl2",СТС (Магнитогорск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_STS_URAL_MAG/variant.m3u8
-#EXTINF:-1 group-title="Челябинская область" tvg-id="domashny-pl2",Домашний (Магнитогорск)
+#EXTINF:-1 group-title="Магнитогорск, Челябинская обл." tvg-id="domashny-pl2",Домашний (Магнитогорск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R04_OTT_DOM_MAG/variant.m3u8
-#EXTINF:-1 group-title="Челябинская область" tvg-id="tv3-ru-pl2",ТВ-3 (Магнитогорск)
+#EXTINF:-1 group-title="Магнитогорск, Челябинская обл." tvg-id="tv3-ru-pl2",ТВ-3 (Магнитогорск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TV3_URAL_MAG/variant.m3u8
-#EXTINF:-1 group-title="Челябинская область" tvg-id="piatnica-pl2",Пятница! (Магнитогорск)
+#EXTINF:-1 group-title="Магнитогорск, Челябинская обл." tvg-id="piatnica-pl2",Пятница! (Магнитогорск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_FRIDAY_MAG/variant.m3u8
-#EXTINF:-1 group-title="Челябинская область" tvg-id="zvezda-pl2",Звезда (Магнитогорск)
+#EXTINF:-1 group-title="Магнитогорск, Челябинская обл." tvg-id="zvezda-pl2",Звезда (Магнитогорск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_MAG/variant.m3u8
-#EXTINF:-1 group-title="Челябинская область" tvg-id="mir-pl2",МИР (Магнитогорск)
+#EXTINF:-1 group-title="Магнитогорск, Челябинская обл." tvg-id="mir-pl2",МИР (Магнитогорск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_MIR_MAG/variant.m3u8
-#EXTINF:-1 group-title="Челябинская область" tvg-id="muztv-pl2",МУЗ-ТВ (Магнитогорск)
+#EXTINF:-1 group-title="Магнитогорск, Челябинская обл." tvg-id="muztv-pl2",МУЗ-ТВ (Магнитогорск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_MUZTV_RTRS_MAG/variant.m3u8
 #EXTINF:-1 group-title="Челябинская область" tvg-id="pervy-pl2",Первый (Челябинская область)
