@@ -4334,6 +4334,9 @@ https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_NOVOROSSIYSK/variant.m3u8
 #EXTINF:-1 group-title="Краснодарский край" tvg-id="kuban-24",Кубань 24 (Краснодар)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24-T/variant.m3u8
+#EXTINF:-1 group-title="Краснодарский край" tvg-id="kuban-24",Кубань 24 (Краснодарский край)
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
 #EXTINF:-1 group-title="Краснодарский край" tvg-id="rbk",РБК-Кубань (Геленджик)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R06_RBC-GEL/variant.m3u8
