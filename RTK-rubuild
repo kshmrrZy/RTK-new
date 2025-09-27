@@ -2573,21 +2573,6 @@ https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R04_MUZTV_ABAKAN/variant.m3u8
 #EXTINF:-1 group-title="Республика Хакасия" tvg-id="8kanal-ru",8 канал (Абакан)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R02_8CHANNEL_ABAKAN/variant.m3u8
-#EXTINF:-1 group-title="Республика Хакасия" tvg-id="otr-pl4",ОТР (Абакан)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_OTR_ABKN/variant.m3u8
-#EXTINF:-1 group-title="Республика Хакасия" tvg-id="spas-pl2",Спас (Абакан)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_SPAS_ABKN/variant.m3u8
-#EXTINF:-1 group-title="Республика Хакасия" tvg-id="mir-pl4",МИР (Абакан)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_MIR_ABKN/variant.m3u8
-#EXTINF:-1 group-title="Республика Хакасия" tvg-id="muztv-pl4",МУЗ-ТВ (Абакан)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R01_MUZTV_ABKN/variant.m3u8
-#EXTINF:-1 group-title="Республика Хакасия" tvg-id="rossia1-pl4",Россия 1 (Республика Хакасия)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_HAKAS/variant.m3u8
 #EXTINF:-1 group-title="Республика Хакасия" tvg-id="rossia1-pl4",Россия 1 (Республика Хакасия)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-abakan-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_HAKAS/variant.m3u8
