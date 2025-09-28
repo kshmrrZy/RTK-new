@@ -329,34 +329,34 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_EVPATORIATVHD/variant.m3u8
 #EXTINF:-1 group-title="Республика Крым",ТРК-555 HD
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TRK555HD/variant.m3u8
-#EXTINF:-1 group-title="Москва" tvg-id="pervy",Первый (Москва)
+#EXTINF:-1 group-title="Москва" tvg-id="pervy",Первый [Москва]
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
-#EXTINF:-1 group-title="Москва" tvg-id="rossia1",Россия 1 (Москва)
+#EXTINF:-1 group-title="Москва" tvg-id="rossia1",Россия 1 [Москва]
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Москва" tvg-id="ntv",НТВ (Москва)
+#EXTINF:-1 group-title="Москва" tvg-id="ntv",НТВ [Москва]
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
-#EXTINF:-1 group-title="Москва" tvg-id="kultura",Россия К (Москва)
+#EXTINF:-1 group-title="Москва" tvg-id="kultura",Россия К [Москва]
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R02_ROSSIAK/variant.m3u8
-#EXTINF:-1 group-title="Москва" tvg-id="tvcentr",ТВ Центр (Москва)
+#EXTINF:-1 group-title="Москва" tvg-id="tvcentr",ТВ Центр [Москва]
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_TVC/variant.m3u8
-#EXTINF:-1 group-title="Москва" tvg-id="zvezda",Звезда (Москва)
+#EXTINF:-1 group-title="Москва" tvg-id="zvezda",Звезда [Москва]
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
-#EXTINF:-1 group-title="Москва" tvg-id="che",Че! (Москва)
+#EXTINF:-1 group-title="Москва" tvg-id="che",Че! [Москва]
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R02_PERETZ/variant.m3u8
-#EXTINF:-1 group-title="Москва" tvg-id="yu",Ю (Москва)
+#EXTINF:-1 group-title="Москва" tvg-id="yu",Ю [Москва]
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_U/variant.m3u8
-#EXTINF:-1 group-title="Москва" tvg-id="solnce",Солнце (Москва)
+#EXTINF:-1 group-title="Москва" tvg-id="solnce",Солнце [Москва]
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_DISNEY/variant.m3u8
-#EXTINF:-1 group-title="Москва" tvg-id="teotv",ТЕО-ТВ (Москва)
+#EXTINF:-1 group-title="Москва" tvg-id="teotv",ТЕО-ТВ [Москва]
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
 #EXTINF:-1 group-title="Москва" tvg-id="sts-love",СТС Love (Москва)
