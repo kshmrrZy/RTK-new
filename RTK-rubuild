@@ -482,7 +482,7 @@ https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_MIR_BLG/variant.m3u8
 #EXTINF:-1 group-title="Белгородская область" tvg-id="belgorod24",Белгород 24 (Белгород)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R02_BELGOROD24/variant.m3u8
-#EXTINF:-1 group-title="Белгородская область" tvg-id="izvestia",Известия Приосколья (Старый Оскол)
+#EXTINF:-1 group-title="Белгородская область" tvg-id="izvestia",Известия Приосколья
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA_OSKOL/variant.m3u8
 #EXTINF:-1 group-title="Брянская область" tvg-id="pervy",Первый (Брянская область)
