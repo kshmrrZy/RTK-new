@@ -4310,7 +4310,7 @@ https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_TV3_SCH/variant.m3u8
 #EXTINF:-1 group-title="Сочи, Краснодарский край" tvg-id="piatnica",Пятница (Сочи)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R01_FRIDAY_SCH/variant.m3u8
-#EXTINF:-1 group-title="КСочи, Краснодарский край" tvg-id="mir",МИР (Сочи)
+#EXTINF:-1 group-title="Сочи, Краснодарский край" tvg-id="mir",МИР (Сочи)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R02_MIR_SCH/variant.m3u8
 #EXTINF:-1 group-title="Сочи, Краснодарский край" tvg-id="tnt",ТНТ (Сочи)
@@ -5036,7 +5036,7 @@ https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_FRIDAY_MAG/variant.m3u
 #EXTINF:-1 group-title="Магнитогорск, Челябинская обл." tvg-id="zvezda-pl2",Звезда (Магнитогорск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ZVEZDA_MAG/variant.m3u8
-#EXTINF:-1 group-title="ЧМагнитогорск, Челябинская обл." tvg-id="mir-pl2",МИР (Магнитогорск)
+#EXTINF:-1 group-title="Магнитогорск, Челябинская обл." tvg-id="mir-pl2",МИР (Магнитогорск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_MIR_MAG/variant.m3u8
 #EXTINF:-1 group-title="Магнитогорск, Челябинская обл." tvg-id="muztv-pl2",МУЗ-ТВ (Магнитогорск)
@@ -7286,7 +7286,7 @@ https://s97982.cdn.ngenix.net/hls/CH_R87_FRIDAY/variant.m3u8
 #EXTINF:-1 group-title="Чукотский АО" tvg-id="tnt-pl7",ТНТ (Чукотка)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s97982.cdn.ngenix.net/hls/CH_R87_TNT/variant.m3u8
-#EXTINF:-1 group-title="ЕАО" tvg-id="match-tv",Матч! (Биробиджан)
+#EXTINF:-1 group-title="Еврейская АО" tvg-id="match-tv",Матч! (Биробиджан)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s97982.cdn.ngenix.net/hls/CH_R01_MATCHTV_BIR/variant.m3u8
 #EXTINF:-1 group-title="Хабаровский край" tvg-id="6tv",6ТВ (Хабаровск)
