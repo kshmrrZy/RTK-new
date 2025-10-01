@@ -2819,7 +2819,7 @@ https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_OTR_CHTA/variant.m3u8
 #EXTINF:-1 group-title="Забайкальский край" tvg-id="pervy-pl6",Первый (Забайкальский край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_PERVIY_ZK/variant.m3u8
-#EXTINF:-1 group-title="Забайкальский край" tvg-id="rossia1-pl6",Россия 1 (Забайкальский край)
+#EXTINF:-1 group-title="Забайкальский край" tvg-id="rossia1-pl6",Россия 1 (Чита)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_ROSSIA1_ZK/variant.m3u8
 #EXTINF:-1 group-title="Забайкальский край" tvg-id="rossia1-pl6",Россия 1 (Забайкальский край)
@@ -2846,9 +2846,6 @@ https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_KARUSEL_ZK/variant.m3u8
 #EXTINF:-1 group-title="Забайкальский край" tvg-id="otr-pl6",ОТР (Забайкальский край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_OTR_ZK/variant.m3u8
-#EXTINF:-1 group-title="Забайкальский край" tvg-id="otr-pl6",ОТР (Забайкальский край)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R02_OTR_ZK/variant.m3u8
 #EXTINF:-1 group-title="Забайкальский край" tvg-id="rentv-pl7",РЕН ТВ (Забайкальский край)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-chita-htlive.cdn.ngenix.net/hls/CH_R01_RENTV_ZK/variant.m3u8
@@ -3335,9 +3332,6 @@ https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R02_1TV_NSK/variant.m3u8
 #EXTINF:-1 group-title="Новосибирская область" tvg-id="rossia1-pl4",Россия 1 (Новосибирск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA1_NSK/variant.m3u8
-#EXTINF:-1 group-title="Новосибирская область" tvg-id="rossia1-pl4",Россия 1 (Новосибирск)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_NSK/variant.m3u8
 #EXTINF:-1 group-title="Новосибирская область" tvg-id="match-tv",Матч! (Новосибирск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-nsk-htlive.cdn.ngenix.net/hls/CH_R04_MATCH_NSK/variant.m3u8
@@ -3730,9 +3724,6 @@ https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R04_MUZTV_TOMSK/variant.m3u8
 https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R03_1TV_TOMSK_OBL/variant.m3u8
 #EXTINF:-1 group-title="Томская область" tvg-id="rossia1-pl4",Россия 1 (Томская область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_TOMSK_OBL/variant.m3u8
-#EXTINF:-1 group-title="Томская область" tvg-id="rossia1-pl4",Россия 1 (Томская область)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-tomsk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_ROSSIA1_TOMSK_OBL/variant.m3u8
 #EXTINF:-1 group-title="Томская область" tvg-id="match-tv",Матч! (Томская область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
@@ -3860,9 +3851,6 @@ https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R03_1TV_BURAT/variant.m3u8
 #EXTINF:-1 group-title="Республика Бурятия" tvg-id="rossia1-pl5",Россия 1 (Республика Бурятия)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA1_BURAT/variant.m3u8
-#EXTINF:-1 group-title="Республика Бурятия" tvg-id="rossia1-pl5",Россия 1 (Республика Бурятия)
-#EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA1_BURAT/variant.m3u8
 #EXTINF:-1 group-title="Республика Бурятия" tvg-id="match-tv",Матч! (Республика Бурятия)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-sib-uude-htlive.cdn.ngenix.net/hls/CH_R04_ROSSIA2_BURAT/variant.m3u8
@@ -5018,7 +5006,7 @@ https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R04_OTT_TVC_URAL_MAG/variant.m
 #EXTINF:-1 group-title="Магнитогорск, Челябинская обл." tvg-id="rentv-pl2",РЕН ТВ (Магнитогорск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_RENTV_URAL_MAG/variant.m3u8
-#EXTINF:-1 group-title="Челябинская область" tvg-id="spas-pl2",Спас (Магнитогорск)
+#EXTINF:-1 group-title="Магнитогорск, Челябинская обл." tvg-id="spas-pl2",Спас (Магнитогорск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_SPAS_RTRS_MAG/variant.m3u8
 #EXTINF:-1 group-title="Магнитогорск, Челябинская обл." tvg-id="sts-pl2",СТС (Магнитогорск)
@@ -5096,7 +5084,7 @@ https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u
 #EXTINF:-1 group-title="Челябинская область" tvg-id="bst",БСТ (Челябинск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_OTT_BST_CHEL/variant.m3u8
-#EXTINF:-1 group-title="Челябинская область" tvg-id="tv-in",ТВ-ИН (Магнитогорск)
+#EXTINF:-1 group-title="Магнитогорск, Челябинская обл." tvg-id="tv-in",ТВ-ИН (Магнитогорск)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R01_TVIN_MAGN/variant.m3u8
 #EXTINF:-1 group-title="Челябинская область",КТРК (Челябинск)
@@ -6767,7 +6755,7 @@ https://s20441.cdn.ngenix.net/hls/CH_R49_TNT/variant.m3u8
 #EXTINF:-1 group-title="Магаданская область" tvg-id="karusel-pl8",Карусель (Магадан)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s20441.cdn.ngenix.net/hls/CH_R01_KARUSEL_MGDN/variant.m3u8
-#EXTINF:-1 group-title="Магаданская область" tvg-id="pervy-pl8",Первый (Магадан)
+#EXTINF:-1 group-title="Магаданская область" tvg-id="pervy-pl8",Первый (Магаданская область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s20441.cdn.ngenix.net/hls/CH_R03_1TV_MGDNOBL/variant.m3u8
 #EXTINF:-1 group-title="Магаданская область" tvg-id="match-tv",Матч! (Магадан)
@@ -7154,7 +7142,7 @@ https://s91030.cdn.ngenix.net/hls/CH_R25_TMX/variant.m3u8
 #EXTINF:-1 group-title="Республика Тыва" tvg-id="pervy-pl4",Первый (Республика Тыва)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s93498.cdn.ngenix.net/hls/CH_R03_1TV_TUVA/variant.m3u8
-#EXTINF:-1 group-title="Республика Тыва" tvg-id="rossia1-pl4",Россия 1 (Республика Тыва)
+#EXTINF:-1 group-title="Республика Тыва" tvg-id="rossia1-pl4",Россия 1 (Кызыл)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s93498.cdn.ngenix.net/hls/CH_R04_ROSSIA1_TUVA/variant.m3u8
 #EXTINF:-1 group-title="Республика Тыва" tvg-id="rossia1-pl4",Россия 1 (Республика Тыва)
