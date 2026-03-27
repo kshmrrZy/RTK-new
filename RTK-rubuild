@@ -365,9 +365,9 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R03_OTT_STSLOVE/variant.m3u8
 #EXTINF:-1 group-title="Москва" tvg-id="doverie",Москва Доверие (Москва)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
-#EXTINF:-1 group-title="Москва" tvg-id="moskva-24",Москва 24 (Москва)
+#EXTINF:-1 group-title="Москва" tvg-id="moskva-24",Москва 24 HD (Москва)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MOSKVA24HD/variant.m3u8
 #EXTINF:-1 group-title="Белгородская область" tvg-id="pervy",Первый (Белгородская область)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://rt-ct-belg-htlive.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
