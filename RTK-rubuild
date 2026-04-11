@@ -7295,3 +7295,69 @@ https://s97982.cdn.ngenix.net/hls/CH_R27_GUBERNYA/variant.m3u8
 #EXTINF:-1 group-title="Еврейская АО",НТК (Биробиджан)
 #EXTVLCOPT:http-user-agent=HlsWinkPlayer
 https://s97982.cdn.ngenix.net/hls/CH_R79_NTK/variant.m3u8
+#EXTINF:-1 group-title="Wink Armenia" tvg-id="nickelodeon-ru",Nickelodeon
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s80718.cdn.ngenix.net/hls/CH_NICKELODEON/variant.m3u8
+#EXTINF:-1 group-title="Wink Armenia" tvg-id="nicktoons",NickToons
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s80718.cdn.ngenix.net/hls/CH_NICKTOONSHD/variant.m3u8
+#EXTINF:-1 group-title="Wink Armenia" tvg-id="h1-am",Armenia 1 Lurer
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s80718.cdn.ngenix.net/hls/CH_LURERHD/variant.m3u8
+#EXTINF:-1 group-title="Wink Armenia" tvg-id="h1-am",Armenia 1
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s80718.cdn.ngenix.net/hls/CH_H1HD/variant.m3u8
+#EXTINF:-1 group-title="Wink Armenia" tvg-id="h2-am",Armenia 2
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s80718.cdn.ngenix.net/hls/CH_H2HD/variant.m3u8
+#EXTINF:-1 group-title="Wink Armenia" tvg-id="baby-tv",Baby TV International
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s80718.cdn.ngenix.net/hls/CH_BABY_TV/variant.m3u8
+#EXTINF:-1 group-title="Wink Armenia",Dar 21
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+http://s80718.cdn.ngenix.net/hls/CH_DAR21HD/variant.m3u8
+#EXTINF:-1 group-title="Wink Armenia" tvg-id="fashionbox-hd",FashionBox International
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s80718.cdn.ngenix.net/hls/CH_FASHION_BOX/variant.m3u8
+#EXTINF:-1 group-title="Wink Armenia" tvg-id="kentron-tv",Kentron TV
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s80718.cdn.ngenix.net/hls/CH_KENTRONHD/variant.m3u8
+#EXTINF:-1 group-title="Wink Armenia" tvg-id="nor-hayastan",Nor Hayastan
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s80718.cdn.ngenix.net/hls/CH_H3HD/variant.m3u8
+#EXTINF:-1 group-title="Wink Armenia",Shant TV
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s80718.cdn.ngenix.net/hls/CH_SHANTHD/variant.m3u8
+#EXTINF:-1 group-title="Wink Armenia",Shoghakat
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s70378.cdn.ngenix.net/shoghakat/index.m3u8
+#EXTINF:-1 group-title="Wink Armenia" tvg-id="tv5-monde",TV5 Monde
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s80718.cdn.ngenix.net/hls/CH_TV5_MONDE/variant.m3u8
+#EXTINF:-1 group-title="Wink Armenia" tvg-id="sts-kids-hd",СТС Kids International
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s70378.cdn.ngenix.net/ctc_kids/index.m3u8
+#EXTINF:-1 group-title="Wink Armenia" tvg-id="mezzo",Mezzo
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s80718.cdn.ngenix.net/hls/CH_MEZZO/variant.m3u8
+#EXTINF:-1 group-title="Wink Armenia",Flix Snip
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s80718.cdn.ngenix.net/hls/CH_FLIXSNIPHD/variant.m3u8
+#EXTINF:-1 group-title="Wink Armenia" tvg-id="bbc",BBC World News
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s80718.cdn.ngenix.net/hls/CH_BBC_WORLD_NEWS/variant.m3u8
+#EXTINF:-1 group-title="Wink Armenia" tvg-id="bloomberg",Bloomberg
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s80718.cdn.ngenix.net/hls/CH_BLOOMBERG/variant.m3u8
+#EXTINF:-1 group-title="Wink Armenia" tvg-id="euronews",Euronews
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s80718.cdn.ngenix.net/hls/CH_EURONEWS/variant.m3u8
+#EXTINF:-1 group-title="Wink Armenia" tvg-id="docubox-hd",DocuBox
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s80718.cdn.ngenix.net/hls/CH_DOCUBOX/variant.m3u8
+#EXTINF:-1 group-title="Wink Armenia" tvg-id="history",History
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s80718.cdn.ngenix.net/hls/CH_HISTORYHD/variant.m3u8
+#EXTINF:-1 group-title="Wink Armenia" tvg-id="h2",History 2
+#EXTVLCOPT:http-user-agent=HlsWinkPlayer
+https://s80718.cdn.ngenix.net/hls/CH_HISTORY_2HD/variant.m3u8
